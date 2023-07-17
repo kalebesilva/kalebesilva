@@ -3,8 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalebedossantossilva/)
 
 
-<!--- ![Kalebe GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebesilva&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalebesilva&layout=compact&theme=dracula)
---->
+ ![Kalebe GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebesilva&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalebesilva&layout=compact&theme=dracula)
+
 ### Technologies 
 
 <div style="display: inline_block">
