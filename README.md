@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalebe</h1>
 <h3 align="center">A full-stack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalebesilva&label=Profile%20views&color=0e75b6&style=flat" alt="kalebesilva" /> </p>
-
 - 🌱 I’m currently learning **Typescript with Node.js**
 
 - 💬 Ask me about **Typescript, Java, Spring boot**
